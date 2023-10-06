@@ -111,5 +111,5 @@ Project is [MIT] licensed
 AUTHORS
 
  * Osoro Brian **[Github](https://github.com/Osoroobare)**
- * Sankara Aluko **[Github}(https://github.com/Sank-rah)**
+ * Sankara Aluko **[Github](https://github.com/Sank-rah)**
   
